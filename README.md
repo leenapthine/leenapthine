@@ -1,16 +1,27 @@
-## Hi there 👋
+## Introduction
+<img width="1019" alt="Screen Shot 2024-06-23 at 7 07 47 PM" src="https://github.com/NeddTheRedd/NeddTheRedd/assets/153869055/2eab8ea9-728f-41be-9e48-50dc48ec8d40">
+<br>
 
-<!--
-**leenapthine/leenapthine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+**Hello, I'm Lee**, a third-year computer science student at the University of Victoria. My interests lie at the intersection of [music](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP), data analysis, and game development. I'm passionate about learning, building projects, and I'm always eager for new opportunities. 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you share these interests, **let's connect!** <br>
+
+---
+#### CONNECT WITH ME:
+
+**E-mail**: lee.napthine@gmail.com <br>
+**Linkedin**: linkedin.com/in/leenapthine <br>
+**Twitter**: twitter.com/NedTheRed3 <br>
+
+---
+#### HIRE ME:
+
+* **[Resume](https://github.com/NeddTheRedd/Resume/blob/main/Lee%20Napthine%20Resume%20-%20Coop%20May%2013th%202024.pdf)**
+
+---
+#### PROJECTS:
+
+Welcome to my portfolio, where I showcase a collection of both independent and academic [projects](https://github.com/NeddTheRedd/Portfolio-Index).
