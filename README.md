@@ -4,7 +4,7 @@
 
 <br>
 
-**Hello, I'm Lee**, a third-year computer science student at the University of Victoria. My interests lie at the intersection of [music](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP), data analysis, and game development. I'm passionate about learning, building projects, and I'm always eager for new opportunities. 
+**Hello, I'm Lee**, a fourth-year computer science student at the University of Victoria. My interests lie at the intersection of [music](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP), web, and game development. I'm passionate about learning, building projects, and I'm always eager for new opportunities. 
 <br>
 
 If you share these interests, **let's connect!** <br>
