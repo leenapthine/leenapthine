@@ -19,7 +19,7 @@ If you share these interests, **let's connect!** <br>
 ---
 #### HIRE ME:
 
-* **[Resume](https://github.com/leenapthine/Resume/blob/main/Lee%20Napthine%20Resume%20-%20Co-op%20May%2010th%2C%202025.pdf)**
+* **[Resume](https://github.com/leenapthine/Resume/blob/main/Lee%20Napthine%20-%20Resume%20May%2021st%2C%202025.pdf)**
 
 ---
 #### PROJECTS:
